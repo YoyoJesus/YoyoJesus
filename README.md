@@ -1,4 +1,13 @@
-## Hi there 👋
+<table>
+<tr>
+<th>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</th>
+<th>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</th>
+</tr>
+</table>
 
 <!--
 **YoyoJesus/YoyoJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
