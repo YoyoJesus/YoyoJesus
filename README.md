@@ -1,7 +1,7 @@
 <table>
 <tr>
 <th>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&theme=vue-dark&show_icons=true&rank_icon=circle&hide_border=true&count_private=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&theme=vue-dark&show_icons=true&rank_icon=github&hide_border=true&count_private=true" />
 </th>
 <th>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" />
