@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Typescript, Cryptology**
 
-- 💻 Active Member of [HacKSU](https://github.com/hacksu)
+- 💻 Hackathon Coordinator at [HacKSU](https://github.com/hacksu)
 
 - 👨‍💻 Lead Developer of [KSU Combat Robotics Website](https://ksucombat.vercel.app/)
 
