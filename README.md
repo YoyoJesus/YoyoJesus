@@ -69,5 +69,9 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&show_icons=true&locale=en" alt="yoyojesus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&show_icons=true&locale=en" alt="yoyojesus" width="450"/>
+</p>
+
+<p>&nbsp;
+  <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus" alt="yoyojesus" width="350" />
 </p>
