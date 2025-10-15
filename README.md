@@ -11,6 +11,19 @@
   </a>
 </p>
 
+<h3 align="left">Certifications:</h3>
+
+- General Mobile Radio Service (GMRS) License 
+- Biomedical Responsible Conduct of Research Course 1 (CITI Program)
+- Social and Behavioral Research (CITI Program)
+
+<h3 align="left">Achievements & Awards:</h3>
+
+- 1st Pace @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
+
+
+<h3 align="left">About Me:</h3>
+
 - 🔭 I’m currently working on [Kent Hack It CTF](https://github.com/hacksu/kent-hack-it)
 - 🌱 I’m currently learning **C++, Svelte, React, and Python**
 - 💻 Hackathon Coordinator at [HacKSU](https://github.com/hacksu)
@@ -28,7 +41,6 @@
   </a>
   <a href="https://www.youtube.com/c/yoyojesus" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoyojesus" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,21 +69,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://favicone.com/wireshark.org?s=52" alt="wireshark" width="40" height="40" />
+  </a>
 </p>
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yoyojesus&show_icons=true&locale=en" alt="yoyojesus" width="450"/>
-</p>
-
-<p>&nbsp;
-  <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus" alt="yoyojesus" width="350" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus&title_color=24292f&icon_color=0969da&text_color=24292f&bg_color=ffffff&langs_count=30&stats_format=bytes&layout=pie" alt="yoyojesus" />
 </p>
