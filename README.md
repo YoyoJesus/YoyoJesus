@@ -19,7 +19,7 @@
 
 <h3 align="left">Achievements & Awards:</h3>
 
-- 1st Pace @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
+- 1st Place @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
 
 
 <h3 align="left">About Me:</h3>
