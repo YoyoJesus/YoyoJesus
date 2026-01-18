@@ -19,7 +19,7 @@
 
 <h3 align="left">Achievements & Awards:</h3>
 
-- 1st Pace @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
+- 1st Place @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
 
 
 <h3 align="left">About Me:</h3>
@@ -63,7 +63,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blnak" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
