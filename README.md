@@ -20,6 +20,7 @@
 <h3 align="left">Achievements & Awards:</h3>
 
 - 1st Place @ HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
+- Nexhacks 2026 Multi-winner with [narr0w](https://devpost.com/software/triage-flow)
 
 
 <h3 align="left">About Me:</h3>
