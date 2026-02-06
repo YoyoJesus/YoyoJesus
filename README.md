@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Austin Sternberg</h1>
 <h3 align="center">Junior Computer Science Student @ Kent State University</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yoyojesus&label=Profile%20views&color=0e75b6&style=flat" alt="yoyojesus" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yoyojesus" alt="yoyojesus" />
-  </a>
-</p>
-
 <h3 align="left">Certifications:</h3>
 
 - General Mobile Radio Service (GMRS) License 
@@ -79,8 +69,4 @@
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://favicone.com/wireshark.org?s=52" alt="wireshark" width="40" height="40" />
   </a>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyojesus&title_color=24292f&icon_color=0969da&text_color=24292f&bg_color=ffffff&langs_count=30&stats_format=bytes&layout=pie" alt="yoyojesus" />
 </p>
