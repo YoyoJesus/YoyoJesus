@@ -15,12 +15,12 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Kent Hack It CTF](https://github.com/hacksu/kent-hack-it)
-- 🌱 I’m currently learning **C++, Svelte, React, and Python**
-- 💻 Hackathon Coordinator at [HacKSU](https://github.com/hacksu)
-- 👨‍💻 Lead Developer & President of [KSU Combat Robotics](https://ksucombat.vercel.app/)
-- 👨‍💻 All of my projects are available on [My Personal Website](https://web.cs.kent.edu/~asternb1/projects.html) or here on GitHub
-- 📫 How to reach me **austinsternberg45@gmail.com**
+- I’m currently working on [Kent Hack It CTF](https://github.com/hacksu/kent-hack-it)
+- I’m currently learning **C++, Svelte, React, and Python**
+- Events Coordinator at [HacKSU](https://github.com/hacksu)
+- Lead Developer & President of [KSU Combat Robotics](https://ksucombat.vercel.app/)
+- View by my projects are available on [My Personal Website](https://asternberg.xyz) or here on GitHub
+- How to reach me **austinsternberg45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
