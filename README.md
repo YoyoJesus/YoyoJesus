@@ -30,8 +30,6 @@ Senior Computer Science Student and Researcher at Kent State University
 - Currently learning **SvelteKit, Meshtastic, PostgreSQL, and Reticulum**
 - President at [HacKSU](https://github.com/hacksu)
 - Lead Developer and President of [KSU Combat Robotics](https://ksucombat.vercel.app/)
-- View my projects on [my personal website](https://asternberg.xyz) or here on GitHub
-- Reach me at **austinsternberg45@gmail.com**
 
 ## Connect With Me
 
