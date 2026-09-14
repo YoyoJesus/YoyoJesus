@@ -3,7 +3,6 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yoyojesus&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yoyojesus&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyojesus&layout=compact&theme=radical)
 
 <h3 align="left">Certifications:</h3>
 
@@ -27,6 +26,8 @@
 - Lead Developer & President of [KSU Combat Robotics](https://ksucombat.vercel.app/)
 - View by my projects are available on [My Personal Website](https://asternberg.xyz) or here on GitHub
 - How to reach me **austinsternberg45@gmail.com**
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyojesus&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
