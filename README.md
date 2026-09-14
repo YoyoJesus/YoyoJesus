@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin Sternberg</h1>
 <h3 align="center">Senior Computer Science Student & Researcher @ Kent State University</h3>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yoyojesus&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyojesus&layout=compact&theme=radical)
+
 <h3 align="left">Certifications:</h3>
 
 - General Mobile Radio Service (GMRS) License 
