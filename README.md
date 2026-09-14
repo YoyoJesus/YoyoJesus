@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin Sternberg</h1>
 <h3 align="center">Senior Computer Science Student & Researcher @ Kent State University</h3>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yoyojesus&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yoyojesus&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyojesus&layout=compact&theme=github_dark)
 
 <h3 align="left">Certifications:</h3>
 
