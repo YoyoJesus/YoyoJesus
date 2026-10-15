@@ -2,13 +2,7 @@
 
 Senior Computer Science Student and Researcher at Kent State University
 
-<div align="center">
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyojesus&show_icons=true&theme=github_dark" alt="Austin's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yoyojesus&theme=github_dark" alt="Austin's GitHub contribution streak" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyojesus&layout=compact&theme=github_dark" alt="Austin's most used languages" height="165" />
-
-</div>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=YoyoJesus)
 
 ## Certifications
 
