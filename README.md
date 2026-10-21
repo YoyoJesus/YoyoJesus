@@ -19,6 +19,7 @@ Senior Computer Science Student and Researcher at Kent State University
 - 1st place at HackDearborn 4 with [BlueQ](https://devpost.com/software/bluq)
 - Multi-winner at Nexhacks 2026 with [narr0w](https://devpost.com/software/triage-flow)
 - 4th place at Hack Ohio
+- 1st place in Quantum CTF @ BsideCLE 2026
 
 ## About Me
 
