@@ -4,6 +4,8 @@ Senior Computer Science Student and Researcher at Kent State University
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=YoyoJesus)
 
+![Top Languages](https://ghstats.dev/api/langs?username=yoyojesus&layout=grid)
+
 ## Certifications
 
 - General Mobile Radio Service (GMRS) License
