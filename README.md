@@ -20,6 +20,7 @@ Senior Computer Science Student and Researcher at Kent State University
 - Multi-winner at Nexhacks 2026 with [narr0w](https://devpost.com/software/triage-flow)
 - 4th place at Hack Ohio
 - 1st place in Quantum CTF @ BsideCLE 2026
+- 1st place CTF Track @ HackTheNest 2026
 
 ## About Me
 
