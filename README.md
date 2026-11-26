@@ -2,9 +2,15 @@
 
 Senior Computer Science Student and Researcher at Kent State University
 
-![GitHub Stats Card](./profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="GitHub Stats Card" src="./profile/stats.svg">
+</picture>
 
-![Top Languages](./profile/top-langs.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Top Languages" src="./profile/top-langs.svg">
+</picture>
 
 ## Certifications
 
