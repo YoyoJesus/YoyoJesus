@@ -12,6 +12,11 @@ Senior Computer Science Student and Researcher at Kent State University
   <img alt="Top Languages" src="./profile/top-langs.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+  <img alt="GitHub Streak" src="./profile/streak.svg">
+</picture>
+
 ## Certifications
 
 - General Mobile Radio Service (GMRS) License

@@ -46,6 +46,18 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
+      - uses: DenverCoder1/github-readme-streak-stats@v1.8.2
+        with:
+          options: user=${{ github.repository_owner }}
+          path: profile/streak.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - uses: DenverCoder1/github-readme-streak-stats@v1.8.2
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue
+          path: profile/streak-dark.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
