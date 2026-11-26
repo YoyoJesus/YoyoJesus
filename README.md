@@ -2,9 +2,9 @@
 
 Senior Computer Science Student and Researcher at Kent State University
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=YoyoJesus)
+![GitHub Stats Card](./profile/stats.svg)
 
-![Top Languages](https://ghstats.dev/api/langs?username=yoyojesus&layout=grid)
+![Top Languages](./profile/top-langs.svg)
 
 ## Certifications
 
